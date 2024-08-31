@@ -1,2 +1,9 @@
 streamlit
-pandas
+accelerate
+diffusers
+invisible_watermark
+torch
+transformers
+xformers
+opencv-python
+requests
